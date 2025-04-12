@@ -37,7 +37,7 @@ Techomedicine is an AI-powered telemedicine platform built using the MERN stack.
 ## Setup Instructions
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/techomedicine.git
+git clone https://github.com/chhavikapasiya11/techomedicine.git
 cd techomedicine
 
 --backend setup
