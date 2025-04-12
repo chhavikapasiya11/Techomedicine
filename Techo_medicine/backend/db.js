@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const mongoURI = process.env.MONGO_URI || "mongodb://localhost:27017/techo_medicine";
+const mongoURI = process.env.MONGO_URI || "MONGOURI";
 
 
 const connectToMongo = async () => {
