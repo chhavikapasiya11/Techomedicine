@@ -1,55 +1,71 @@
-# Techomedicine - AI-Powered Telemedicine Platform
+💊 Techomedicine – AI-Powered Telemedicine Platform
+🎥 Working Video:
+Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT5/view?usp=sharing
 
-Techomedicine is an AI-powered telemedicine platform built using the MERN stack. It provides seamless patient-doctor interaction through digital appointment booking, online consultations, electronic health records, and AI-driven health insights.
+👩‍💻 About Me:
+I'm Chhavi Kapasiya, a full-stack developer with a strong passion for leveraging technology to improve lives. With a keen interest in health-tech, I’ve built Techomedicine — an end-to-end AI-powered telemedicine platform using the MERN stack. This project reflects my commitment to creating scalable, real-world solutions that simplify healthcare access through modern web technologies, AI integration, and peer-to-peer learning models.
 
-## Features
+🚀 Features
+🔐 Role-Based Login (Patient / Doctor)
 
-- Role-based Login (Patient / Doctor)
-- Appointment Booking System
-- Video Consultation Link Generation
-- Digital Health Records Management
-- AI-Powered Health Suggestions using Gemini API (or any LLM)
-- Patient Dashboard with Personal & Health Info
-- Doctor Dashboard with Appointment Control
-- Peer-to-Peer Growth & Learning Modules (Swapping, Mentorship)
+📅 Appointment Booking System
 
-## Tech Stack
+📹 Video Consultation Links (via Jitsi)
 
-### Backend:
-- Node.js
-- Express.js
-- MongoDB + Mongoose
-- JWT for secure authentication
+🏥 Digital Health Records Management
 
-### Frontend:
-- React.js
-- React Router
-- Axios
-- Tailwind CSS or Bootstrap (customizable)
+🤖 AI-Driven Health Suggestions (Gemini API or any LLM)
 
-### AI Integration:
-- Gemini API or similar LLM-based health suggestion service
+👩‍⚕️ Doctor Dashboard – View, Control Appointments
 
-### Other Integrations:
-- Jitsi  video appointments
+🧑‍⚕️ Patient Dashboard – View Health Info, Book Appointments
 
+🛠️ Tech Stack
+🧠 AI Integration
+Gemini API (or any LLM-based API for health suggestions)
 
-## Setup Instructions
+🔧 Backend
+Node.js
 
-### 1. Clone the Repository
-git clone https://github.com/chhavikapasiya11/techomedicine.git
-cd techomedicine
+Express.js
 
---backend setup
-cd backend
-npm install
+MongoDB + Mongoose
 
-Create a .env file inside the backend directory:
-PORT=7000
-MONGO_URI=your_mongodb_connection_string
+JWT Authentication
+
+🎨 Frontend
+React.js
+
+React Router
+
+Axios
+
+HTML,CSS and Bootstrap
+
+📹 Video Consultation
+Jitsi Meet integration for secure video appointments
+
+⚙️ Setup Instructions
+1. Clone the Repository
+Clone the project using the GitHub link:
+https://github.com/chhavikapasiya11/techomedicine.git
+
+Navigate into the project directory: cd techomedicine
+
+2. Backend Setup
+Go to the backend folder: cd backend
+
+Install the backend dependencies using npm install
+
+Create a .env file inside the backend directory and add the following values:
+PORT=7000  
+MONGO_URI=your_mongodb_connection_string  
 JWT_SECRET=your_secret_key
 
-Frontend Setup
-cd frontend
-npm install
-npm start
+Start the backend server using npm start
+3. Frontend Setup
+Navigate to the frontend folder: cd ../frontend
+Install frontend dependencies using npm install
+Start the frontend app using npm start
+
+
