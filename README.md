@@ -2,9 +2,6 @@
 🎥 Working Video:
 Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT5/view?usp=sharing
 
-👩‍💻 About Me:
-I'm Chhavi Kapasiya, a full-stack developer with a strong passion for leveraging technology to improve lives. With a keen interest in health-tech, I’ve built Techomedicine — an end-to-end AI-powered telemedicine platform using the MERN stack. This project reflects my commitment to creating scalable, real-world solutions that simplify healthcare access through modern web technologies, AI integration, and peer-to-peer learning models.
-
 🚀 Features
 🔐 Role-Based Login (Patient / Doctor)
 
@@ -67,5 +64,8 @@ Start the backend server using npm start
 Navigate to the frontend folder: cd ../frontend
 Install frontend dependencies using npm install
 Start the frontend app using npm start
+.........
+👩‍💻 About Me:
+I'm Chhavi Kapasiya, a full-stack developer with a strong passion for leveraging technology to improve lives. With a keen interest in health-tech, I’ve built Techomedicine — an end-to-end AI-powered telemedicine platform using the MERN stack. This project reflects my commitment to creating scalable, real-world solutions that simplify healthcare access through modern web technologies, AI integration, and peer-to-peer learning models.
 
 
