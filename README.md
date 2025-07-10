@@ -1,4 +1,4 @@
-💊 Techomedicine – AI-Powered Telemedicine Platform
+💊 Techomedicine – A Smart AI powered Medtech Platform
 
 🎥 Working Video:
 Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT5/view?usp=sharing
