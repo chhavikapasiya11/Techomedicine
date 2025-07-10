@@ -1,4 +1,5 @@
 💊 Techomedicine – AI-Powered Telemedicine Platform
+
 🎥 Working Video:
 Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT5/view?usp=sharing
 
@@ -11,7 +12,7 @@ Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT
 
 🏥 Digital Health Records Management
 
-🤖 AI-Driven Health Suggestions (Gemini API or any LLM)
+🤖 AI-Driven Health Suggestions :Gemini API 
 
 👩‍⚕️ Doctor Dashboard – View, Control Appointments
 
@@ -19,7 +20,7 @@ Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT
 
 🛠️ Tech Stack
 🧠 AI Integration
-Gemini API (or any LLM-based API for health suggestions)
+Gemini API 
 
 🔧 Backend
 Node.js
@@ -29,6 +30,8 @@ Express.js
 MongoDB + Mongoose
 
 JWT Authentication
+
+Razor pay
 
 🎨 Frontend
 React.js
