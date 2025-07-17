@@ -18,11 +18,12 @@ Watch the demo: https://drive.google.com/file/d/1Hg66M9oXg6IP0NXJb6bQq8t0jce8-xT
 
 🧑‍⚕️ Patient Dashboard – View Health Info, Book Appointments
 
+
 🛠️ Tech Stack
-🧠 AI Integration
+- AI Integration:
 Gemini API 
 
-🔧 Backend
+🔧 Backend:
 Node.js
 
 Express.js
@@ -33,7 +34,7 @@ JWT Authentication
 
 Razor pay
 
-🎨 Frontend
+🎨 Frontend:
 React.js
 
 React Router
@@ -42,7 +43,7 @@ Axios
 
 HTML,CSS and Bootstrap
 
-📹 Video Consultation
+📹 Video Consultation:
 Jitsi Meet integration for secure video appointments
 
 ⚙️ Setup Instructions
